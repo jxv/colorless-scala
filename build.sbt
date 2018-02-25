@@ -1,4 +1,4 @@
-name := "FluidIDL"
+name := "fluid"
 
 version := "1.1.1"
 
