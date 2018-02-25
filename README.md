@@ -1,1 +1,7 @@
-# colorless-scala
+# fluid-scala
+
+## Build
+
+```
+sbt build
+```
